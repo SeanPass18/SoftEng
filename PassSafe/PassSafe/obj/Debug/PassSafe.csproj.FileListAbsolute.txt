@@ -1,0 +1,34 @@
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\bin\Debug\PassSafe.exe.config
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\bin\Debug\PassSafe.exe
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\bin\Debug\PassSafe.pdb
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.Form1.resources
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.Generator.resources
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.Vault.resources
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.Notes.resources
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.Properties.Resources.resources
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.Settings.resources
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.SignIn.resources
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.SignUp.resources
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.csproj.GenerateResource.cache
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.csproj.CoreCompileInputs.cache
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.exe
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.pdb
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.csprojAssemblyReference.cache
+E:\Uni\Year2\Sem2\Software Engineering\PassSafe\obj\Debug\PassSafe.AddPW.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\bin\Debug\PassSafe.exe.config
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\bin\Debug\PassSafe.exe
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\bin\Debug\PassSafe.pdb
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.csprojAssemblyReference.cache
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.AddPW.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.Form1.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.Generator.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.Vault.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.Notes.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.Properties.Resources.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.Settings.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.SignIn.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.SignUp.resources
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.csproj.GenerateResource.cache
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.csproj.CoreCompileInputs.cache
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.exe
+C:\Users\TheSe\Downloads\PassSafe\PassSafe\obj\Debug\PassSafe.pdb
